@@ -1,8 +1,18 @@
-catboost
+tensorflow
+dvc
+numpy
+pandas
+matplotlib
+pyYAML
+seaborn
+setuptools
+notebook
+python-box==6.0.2
+tqdm
+ensure==1.0.2
 joblib
-lightgbm
-optuna
-streamlit
-xgboost
-markupsafe
-zenml
+types-PyYAML
+Flask
+scipy
+Flask-Cors
+-e .
